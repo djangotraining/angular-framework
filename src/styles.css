@@ -13,3 +13,10 @@ body {
     margin: 20px;
     display: flex;
 }
+
+.comment {
+  margin-bottom: 30px;
+  display: flex;
+}
+
+
